@@ -4,7 +4,8 @@ The purpose of this project is to make a powerful sim racing wheel cheaply (also
 ## Motor
 To be honest, when i started the project, i didn't want to make a design like the one below. I had in mind to make a direct drive sim wheel by purchasing a stepper motor with an encoder and a stepper motor driver. However, since the prices of these parts were higher ($110 for stepper motor and $110 for driver) and i couldn't see an example of a sim wheel made using with stepper motor, i decided to make this project with the motor below. My advice to you is that if you don't have a budget problem and still want to make your own sim wheel, you should continue with a servo motor. If I had used such a motor, I wouldn't have bothered with the gears, shaft or cage in this project.  
 As an motor, i chose this motor which is originally used in scooters.
-
+Brushed DC motor. Model: MY1025
+Works with 24V and 14A (so its 250W).Also 2750RPM (actually, what i paid attention to was not the rpm but the torque).
 I think this motor will be powerful enough for the steering wheel.
 ## Power Supply
 
