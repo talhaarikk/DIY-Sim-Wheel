@@ -21,8 +21,15 @@ The thing i paid particular attention to in the design was that the shaft passes
 ## Electronics
 
 ## Cost
-In this section, i will write the prices of the pieces in turkish lira. since my purpose in doing my projects is completely up to my enjoyment, they are spread over a long period of time like 1-2 years. That's why prices and exchange rates are variable, but as of the date i did the project, you can think of 1 dollar as 30-40 turkish lira.
-Motor: 1700
+In this section, i will write the prices of the pieces in turkish lira. since my purpose in doing my projects is completely up to my enjoyment, they are spread over a long period of time like 1-2 years. That's why prices and exchange rates are variable, but as of the date i did the project, you can think of 1 dollar as 30-40 turkish lira.  
+Motor: 1700 tl  
+Power supply:  
 ## Sources
-
+Below are the videos that i watched to gain information when starting this project. I recommend that you watch them too.  
+https://youtu.be/hbCjbCfUp0g?si=NynA37pT9rn3MCQu (special thanks to this video)  
+https://youtu.be/FUZKslSwfaw?si=WwYVih52zpUwfXec  
+https://youtu.be/L-FAyA0VQVQ?si=nJCx8VnmU1xidO3N  
+https://youtu.be/nPorcXRC3Ns?si=enejoyd5WoKqs4ha  
+https://youtu.be/gG_dbnKfH5Q?si=5sSKj9XNKsQQZj4X (the first sim wheel i wanted to do)  
+https://youtu.be/_h417VxFmWQ?si=Obe5oXemXU2WvnzE (example using servo)  
 ## Conclusion
