@@ -15,6 +15,8 @@ When choosing a power supply, i preferred a 24V and 15A power supply. Since the 
 
 ## Frame
 
+## Electronics
+
 ## Design
 I made the entire design using solidworks. You can find these files in the solidworks files section.  
 The thing i paid particular attention to in the design was that the shaft passes through the middle of the case. If I hadn't paid attention to this, the width of the cage could have been smaller.
@@ -22,7 +24,7 @@ The thing i paid particular attention to in the design was that the shaft passes
 
 ## Pedal Shifters
 The reason i opened a separate title for the pedal shifter was that i decided to add it to the steering wheel after the whole project was finished. So you don't have to do this part if you don't want to.  
-## Electronics
+## Wiring Diagram
 
 ## Software
 Actually the first software i ran was the wheelconfig program but i couldn't get the system to work using this program. Also this program has a more complex schematic. That's why i preferred EMC software.  
