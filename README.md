@@ -20,6 +20,8 @@ The thing i paid particular attention to in the design was that the shaft passes
 
 ## Electronics
 
+## Software
+
 ## Cost
 In this section, i will write the prices of the pieces in turkish lira. since my purpose in doing my projects is completely up to my enjoyment, they are spread over a long period of time like 1-2 years. That's why prices and exchange rates are variable, but as of the date i did the project, you can think of 1 dollar as 30-40 turkish lira.  
 Motor: 1700 tl  
