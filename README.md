@@ -18,6 +18,8 @@ I think this motor will be powerful enough for the steering wheel. If you want, 
 The thing i paid particular attention to in the design was that the shaft passes through the middle of the case. If I hadn't paid attention to this, the width of the cage could have been smaller.
 ## Assembly
 
+## Pedal Shifters
+The reason i opened a separate title for the pedal shifter was that i decided to add it to the steering wheel after the whole project was finished. So you don't have to do this part if you don't want to.  
 ## Electronics
 
 ## Software
