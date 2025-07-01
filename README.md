@@ -37,6 +37,7 @@ https://youtu.be/hbCjbCfUp0g?si=NynA37pT9rn3MCQu (special thanks to this video)
 https://youtu.be/FUZKslSwfaw?si=WwYVih52zpUwfXec  
 https://youtu.be/L-FAyA0VQVQ?si=nJCx8VnmU1xidO3N  
 https://youtu.be/nPorcXRC3Ns?si=enejoyd5WoKqs4ha  
+https://youtu.be/aYYAbcPKN8g?si=kRVGH3cPVwXVqP0q  
 https://youtu.be/gG_dbnKfH5Q?si=5sSKj9XNKsQQZj4X (the first sim wheel i wanted to do)  
 https://youtu.be/_h417VxFmWQ?si=Obe5oXemXU2WvnzE (example using servo)  
 ## Conclusion
