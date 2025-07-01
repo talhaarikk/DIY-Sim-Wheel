@@ -9,7 +9,8 @@ Brushed DC motor. Model: MY1025
 Works with 24V and 14A (so its 250W).Also 2750RPM (actually, what i paid attention to was not the rpm but the torque).  
 I think this motor will be powerful enough for the steering wheel. If you want, you can do the project by using 2 smaller motor or even using 2 of this motor. Although i didn't need such a thing.
 ## Power Supply
-
+When choosing a power supply, I preferred a 24V and 15A power supply. Since the motor is 250 watt, the watt of the power supply should be slightly higher (in this case 300W).  
+![Power Supply]()
 ## Gears
 
 ## Frame
@@ -31,7 +32,7 @@ After installing the software, everything that needs to be done about the steeri
 ## Cost
 In this section, i will write the prices of the pieces in turkish lira. since my purpose in doing my projects is completely up to my enjoyment, they are spread over a long period of time like 1-2 years. That's why prices and exchange rates are variable, but as of the date i did the project, you can think of 1 dollar as 30-40 turkish lira.  
 Motor: 1700 tl  
-Power supply:  
+Power supply: 600 tl  
 ## Sources
 Below are the videos that i watched to gain information when starting this project. I recommend that you watch them too.  
 https://youtu.be/hbCjbCfUp0g?si=NynA37pT9rn3MCQu (special thanks to this video)  
