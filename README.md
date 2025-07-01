@@ -15,6 +15,7 @@ I think this motor will be powerful enough for the steering wheel. If you want, 
 ## Frame
 
 ## Design
+I made the entire design using solidworks. You can find these files in the solidworks files section.  
 The thing i paid particular attention to in the design was that the shaft passes through the middle of the case. If I hadn't paid attention to this, the width of the cage could have been smaller.
 ## Assembly
 
