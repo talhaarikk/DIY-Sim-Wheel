@@ -43,6 +43,6 @@ https://youtu.be/FUZKslSwfaw?si=WwYVih52zpUwfXec
 https://youtu.be/L-FAyA0VQVQ?si=nJCx8VnmU1xidO3N  
 https://youtu.be/nPorcXRC3Ns?si=enejoyd5WoKqs4ha  
 https://youtu.be/aYYAbcPKN8g?si=kRVGH3cPVwXVqP0q  
-https://youtu.be/gG_dbnKfH5Q?si=5sSKj9XNKsQQZj4X (the first sim wheel i wanted to do)  
-https://youtu.be/_h417VxFmWQ?si=Obe5oXemXU2WvnzE (example using servo)  
+https://youtu.be/gG_dbnKfH5Q?si=5sSKj9XNKsQQZj4X (example using stepper motor)  
+https://youtu.be/_h417VxFmWQ?si=Obe5oXemXU2WvnzE (example using servo motor)  
 ## Conclusion
