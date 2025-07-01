@@ -10,7 +10,7 @@ Works with 24V and 14A (so its 250W).Also 2750RPM (actually, what i paid attenti
 I think this motor will be powerful enough for the steering wheel. If you want, you can do the project by using 2 smaller motor or even using 2 of this motor. Although i didn't need such a thing.
 ## Power Supply
 When choosing a power supply, I preferred a 24V and 15A power supply. Since the motor is 250 watt, the watt of the power supply should be slightly higher (in this case 300W).  
-![Power Supply]()
+![Power Supply](Images/Power Supply.png)
 ## Gears
 
 ## Frame
