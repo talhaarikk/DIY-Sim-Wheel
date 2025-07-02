@@ -26,6 +26,7 @@ Since the encoder itself will not transfer any torque and will only rotate the s
 ![3M Pulley](Images/3MPulley.png)  
 Table of pulleys for size 3M-09. Unfortunately i couldn't find the one for 5M-25.  
 ## Other Hardwares
+When talking about other components, i must first mention the shaft. The shaft length is 26 cm and its diameter is 12 mm. The material is stated as induction shaft, but if i were to choose the shaft again, i would definitely not choose this material. Drilling holes on it to fix the gears was a complete torture. At least it is solid now.  
 
 ## Frame
 
