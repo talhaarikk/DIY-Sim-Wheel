@@ -13,12 +13,12 @@ When choosing a power supply, i preferred a 24V and 15A power supply. Since the 
 ![Power Supply](Images/Power Supply.png)  
 ## Gears
 There are 4 gears in the steering wheel, one between the shaft and the motor and one between the shaft and the encoder. I recommend that you make sure that the gears are made of aluminum so that you can drill the holes and that they are not too heavy. Even though the gears were made of aluminum, the most challenging part of this project was the holes i drilled to mount the gears on the shaft. These gears mounted on the shaft should not be fixed with any gaps in order to ensure a healthy transmission. My method of fixing them was to drill screw holes in the gears and flatten the areas where the screws were tightened on the shaft to prevent them from slipping.  
-Components for the motor:  
+**Components for the motor:**  
 60-5M-25-AL (on the shaft)  
 12-5M-25-AL (on the motor)  
 410-5M-25 (pulley)  
-The torque produced by the motor itself was around 0.87 nm. With the 60/12 gear ratio, this value was multiplied by 5, theoretically reaching 4.35 nm (i did not measure this value experimentally). This value is approximately twice that of the Logitech G29.
-Components for the encoder:  
+The torque produced by the motor itself was around 0.87 nm. With the 60/12 gear ratio, this value was multiplied by 5, theoretically reaching 4.35 nm (i did not measure this value experimentally). This value is approximately twice that of the Logitech G29.  
+**Components for the encoder:**  
 12-3M-09-AL (on the encoder)  
 30-3M-09-AL (on the shaft)  
 192-3M-09 (pulley)
@@ -46,6 +46,7 @@ In this section, i will write the prices of the pieces in turkish lira. Since my
 Motor: 1700 tl  
 Power supply: 600 tl  
 Steering wheel: 1500 tl  
+Encoder: 550 tl  
 Total:  
 ## Sources
 Below are the videos that i watched to gain information when starting this project. I recommend that you watch them too.  
