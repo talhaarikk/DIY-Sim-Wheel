@@ -10,7 +10,7 @@ Works with 24V and 14A (so its 250W). Also 2750RPM (actually, what i paid attent
 I think this motor will be powerful enough for the steering wheel. If you want, you can do the project by using 2 smaller motor or even using 2 of this motor. Although i didn't need such a thing.
 ## Power Supply
 When choosing a power supply, i preferred a 24V and 15A power supply. Since the motor is 250 watt, the watt of the power supply should be slightly higher (in this case 300W).  
-![Power Supply](Images/Power Supply.png)  
+![Power Supply](Images/PowerSupply.png)  
 ## Gears
 There are 4 gears in the steering wheel, one between the shaft and the motor and one between the shaft and the encoder. I recommend that you make sure that the gears are made of aluminum so that you can drill the holes and that they are not too heavy. Even though the gears were made of aluminum, the most challenging part of this project was the holes i drilled to mount the gears on the shaft. These gears mounted on the shaft should not be fixed with any gaps in order to ensure a healthy transmission. My method of fixing them was to drill screw holes in the gears and flatten the areas where the screws were tightened on the shaft to prevent them from slipping.  
 **Components for the motor:**  
@@ -23,14 +23,18 @@ The torque produced by the motor itself was around 0.87 nm. With the 60/12 gear 
 30-3M-09-AL (on the shaft)  
 192-3M-09 (pulley)
 Since the encoder itself will not transfer any torque and will only rotate the sensor, i did not feel the need to use a stronger belt as in the encoder. The encoder was reading 600 times in 1 turn. With the 12/30 gear ratio, this value increased by 2.5 times. Now the encoder is reading 1500 times in 1 turn. You can interpret this value as reading 1 every 0.25 degrees of steering wheel rotation, which is quite sufficient.  
-![3M Pulley](Images/3M Pulley.png)
+![3M Pulley](Images/3MPulley.png)  
+Table of pulleys for size 3M-09. Unfortunately i couldn't find the one for 5M-25.  
+## Other Hardwares
+
 ## Frame
 
 ## Electronics
 
 ## Design
 I made the entire design using solidworks. You can find these files in the solidworks files section.  
-The thing i paid particular attention to in the design was that the shaft passes through the middle of the case. If I hadn't paid attention to this, the width of the cage could have been smaller.
+The thing i paid particular attention to in the design was that the shaft passes through the middle of the case. If I hadn't paid attention to this, the width of the cage could have been smaller.  
+I also found the gear diameters and belt lengths I determined thanks to this program.  
 ## Assembly
 
 ## Pedal Shifters
@@ -48,6 +52,11 @@ Motor: 1700 tl
 Power supply: 600 tl  
 Steering wheel: 1500 tl  
 Encoder: 550 tl  
+Arduino: 400 tl  
+BTS7960b: 200 tl
+Gears: 1000 tl  
+Other hardwares: 1000 tl  
+Other electranics: 500 tl  
 Total:  
 ## Sources
 Below are the videos that i watched to gain information when starting this project. I recommend that you watch them too.  
