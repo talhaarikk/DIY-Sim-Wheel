@@ -53,11 +53,12 @@ Power supply: 600 tl
 Steering wheel: 1500 tl  
 Encoder: 550 tl  
 Arduino: 400 tl  
-BTS7960b: 200 tl
+BTS7960b: 200 tl  
 Gears: 1000 tl  
 Other hardwares: 1000 tl  
 Other electranics: 500 tl  
-Total:  
+Total: 7450 tl  
+Half price of g29.
 ## Sources
 Below are the videos that i watched to gain information when starting this project. I recommend that you watch them too.  
 https://youtu.be/hbCjbCfUp0g?si=NynA37pT9rn3MCQu (special thanks to this video)  
@@ -68,3 +69,4 @@ https://youtu.be/aYYAbcPKN8g?si=kRVGH3cPVwXVqP0q
 https://youtu.be/gG_dbnKfH5Q?si=5sSKj9XNKsQQZj4X (example using stepper motor)  
 https://youtu.be/_h417VxFmWQ?si=Obe5oXemXU2WvnzE (example using servo motor)  
 ## Conclusion
+This project was an adventure that gave me a lot of knowledge while doing it (i can't say that i enjoyed it during the process). It was much more solid, powerful, cheap and high quality compared to other steering sets on the market. I hope i could contribute to your own projects. If you have any questions about the project, don't hesitate to ask me.  
