@@ -21,7 +21,7 @@ The torque produced by the motor itself was around 0.87 nm. With the 60/12 gear 
 **Components for the encoder:**  
 12-3M-09-AL (on the encoder)  
 30-3M-09-AL (on the shaft)  
-192-3M-09 (pulley)
+192-3M-09 (pulley)  
 Since the encoder itself will not transfer any torque and will only rotate the sensor, i did not feel the need to use a stronger belt as in the encoder. The encoder was reading 600 times in 1 turn. With the 12/30 gear ratio, this value increased by 2.5 times. Now the encoder is reading 1500 times in 1 turn. You can interpret this value as reading 1 every 0.25 degrees of steering wheel rotation, which is quite sufficient.  
 ![3M Pulley](Images/3MPulley.png)  
 Table of pulleys for size 3M-09. Unfortunately i couldn't find the one for 5M-25.  
