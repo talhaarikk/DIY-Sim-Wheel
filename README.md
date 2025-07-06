@@ -42,7 +42,8 @@ I used sigma profile in the cage structure that helps bring all the pieces toget
 70 mm x 2  
 50 mm x 2  
 ![Frame]()
-The 70 and 50 mm pieces are a solution i found to fix the system to the table. If you have a sim racing cockpit, you won't need this part to fix it.
+The 70 and 50 mm pieces are a solution i found to fix the system to the table. If you have a sim racing cockpit, you won't need this part to fix it.  
+![Frame](Images/Frame.png)  
 ## Electronics
 
 ## Design
