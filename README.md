@@ -35,6 +35,8 @@ I used the following bearing to hold this shaft. Model number KP001. There are 3
 ![Bearing Housing](Images/BearingHousing.png)  
 **Belt Tensioner**  
 For the belt tensioner, i used 3 bearings on a piece i cut from a metal plate. This piece both makes assembly easier and helps adjust the tension of the belt.  
+**Steering Wheel Hub**  
+
 ## Frame
 I used sigma profile in the cage structure that helps bring all the pieces together. Sigma profile thickness 20 mm. The lengths of all the sigma profiles i use are as follows.  
 280 mm x 4  
@@ -43,7 +45,7 @@ I used sigma profile in the cage structure that helps bring all the pieces toget
 50 mm x 2  
 The 70 and 50 mm pieces are a solution i found to fix the system to the table. If you have a sim racing cockpit, you won't need this part to fix it.  
 ![Frame](Images/Frame.png)  
-
+I used hidden corner joints to connect the profiles to each other. I also put caps on the ends of the profiles so that they would not look ugly.
 ## Electronics
 
 ## Design
