@@ -65,7 +65,7 @@ I also found the gear diameters and belt lengths I determined thanks to this pro
 The reason i opened a separate title for the pedal shifter was that i decided to add it to the steering wheel after the whole project was finished. So you don't have to do this part if you don't want to.  
 ## Wiring Diagram
 The wiring is completely taken from the video below.  
-![Wiring Diagram]()  
+![Wiring Diagram](Images/WiringDiagram.png)  
 ## Software
 Actually the first software i ran was the wheelconfig program but i couldn't get the system to work using this program. Also this program has a more complex schematic. That's why i preferred EMC software.  
 The only thing i didn't do myself in this project and copied directly was the software. That's why i won't show how to set up the program, transfer it to arduino and make settings here. You can use the videos i put below to do these.  
