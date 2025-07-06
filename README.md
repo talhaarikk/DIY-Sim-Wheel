@@ -17,6 +17,7 @@ There are 4 gears in the steering wheel, one between the shaft and the motor and
 60-5M-25-AL (on the shaft)  
 12-5M-25-AL (on the motor)  
 410-5M-25 (pulley)  
+![Motor Gears](Images/MotorGears.png)  
 The torque produced by the motor itself was around 0.87 nm. With the 60/12 gear ratio, this value was multiplied by 5, theoretically reaching 4.35 nm (i did not measure this value experimentally). This value is approximately twice that of the Logitech G29.  
 **Components for the encoder:**  
 12-3M-09-AL (on the encoder)  
