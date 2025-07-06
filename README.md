@@ -1,6 +1,7 @@
 # DIY Sim Wheel
 ## Purpose
-The purpose of this project is to make a powerful sim racing wheel cheaply (also i like doing this kind of stuff). But accualy the main reason i started this project was that i didn't want to buy a logitech g29 (g29 because it is the most common, known, reliable and cheap model on the market). Because the g29 was made of too much plastic, the torque was not at the level i wanted and the size of the steering wheel was not enough for me. That's why i focused on these issues in my own design. Below you can find all the details of the steering wheel.
+The purpose of this project is to make a powerful sim racing wheel cheaply (also i like doing this kind of stuff). But accualy the main reason i started this project was that i didn't want to buy a logitech g29 (g29 because it is the most common, known, reliable and cheap model on the market). Because the g29 was made of too much plastic, the torque was not at the level i wanted and the size of the steering wheel was not enough for me. That's why i focused on these issues in my own design. Below you can find all the details of the steering wheel.  
+![Sim Wheel]()  
 ## Motor
 To be honest, when i started the project, i didn't want to make a design like the one below. I had in mind to make a direct drive sim wheel by purchasing a stepper motor with an encoder and a stepper motor driver. However, since the prices of these parts were higher ($110 for stepper motor and $110 for driver) and i couldn't see an example of a sim wheel made using with stepper motor, i decided to make this project with the motor below. My advice to you is that if you don't have a budget problem and still want to make your own sim wheel, you should continue with a servo motor. If I had used such a motor, i wouldn't have bothered with the gears, shaft or frame in this project.  
 As an motor, i chose this motor which is originally used in scooters.  
@@ -63,7 +64,9 @@ I made the entire design using solidworks. I also found the gear diameters and b
 ## Assembly
 
 ## Pedal Shifters
-The reason i opened a separate title for the pedal shifter was that i decided to add it to the steering wheel after the whole project was finished. So you don't have to do this part if you don't want to.  
+The reason i opened a separate title for the pedal shifter was that i decided to add it to the steering wheel after the whole project was finished. So this part is not in solidworks file. You don't have to do this part if you don't want to.  
+I simply used a cabinet hinge as a pedal shifter. After cutting it to the required dimensions, i added a switch that is triggered when pressed. I made the connection to the arduino with a braided cable so that it can withstand the rotation of the steering wheel. This cable is removable and pluggable, so i can remove it when using manual gear. Other than these, there is nothing difficult about this part. You can understand how it works from the photo below.  
+![Paddle Shifter]()  
 ## Wiring Diagram
 The wiring is completely taken from the video below.  
 ![Wiring Diagram](Images/WiringDiagram.png)  
