@@ -35,6 +35,9 @@ I used the following bearing to hold this shaft. Model number KP001. There are 3
 ![Bearing Housing](Images/BearingHousing.png)  
 **Belt Tensioner**  
 For the belt tensioner, i used 3 bearings on a piece i cut from a metal plate. This piece both makes assembly easier and helps adjust the tension of the belt.  
+**Steering Wheel**  
+This is a after market steering wheel. Any one you like will do.  
+![Steering Wheel]()
 **Steering Wheel Hub**  
 
 ## Frame
