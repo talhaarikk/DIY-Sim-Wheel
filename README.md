@@ -39,7 +39,7 @@ For the belt tensioner, i used 3 bearings on a piece i cut from a metal plate. T
 This is a after market steering wheel. Any one you like will do.  
 ![Steering Wheel](Images/SteeringWheel.png)  
 **Steering Wheel Hub**  
-I made it by welding a pipe to a round metal plate. If you can, a 3D printed part would work just fine.  
+I made it by welding a pipe to a round metal plate. If you can, a 3D printed part would work just fine too.  
 ![Steering Wheel Hub](Images/SteeringWheelHub.jpg)  
 ## Frame
 I used sigma profile in the cage structure that helps bring all the pieces together. Sigma profile thickness 20 mm. The lengths of all the sigma profiles i use are as follows.  
