@@ -51,6 +51,9 @@ The 70 and 50 mm pieces are a solution i found to fix the system to the table. I
 ![Frame](Images/Frame.png)  
 The bolts on the profile were used with imbus bolts and t-nuts for fixing. I used hidden corner joints to connect the profiles to each other. I also put caps on the ends of the profiles so that they would not look ugly.  
 ## Electronics
+**Board**  
+
+**Motor Driver**  
 
 ## Design
 I made the entire design using solidworks. You can find these files in the solidworks files section.  
@@ -61,7 +64,8 @@ I also found the gear diameters and belt lengths I determined thanks to this pro
 ## Pedal Shifters
 The reason i opened a separate title for the pedal shifter was that i decided to add it to the steering wheel after the whole project was finished. So you don't have to do this part if you don't want to.  
 ## Wiring Diagram
-
+The wiring is completely taken from the video below.  
+![Wiring Diagram]()  
 ## Software
 Actually the first software i ran was the wheelconfig program but i couldn't get the system to work using this program. Also this program has a more complex schematic. That's why i preferred EMC software.  
 The only thing i didn't do myself in this project and copied directly was the software. That's why i won't show how to set up the program, transfer it to arduino and make settings here. You can use the videos i put below to do these.  
@@ -82,8 +86,8 @@ Total: 7450 tl
 Half price of g29.
 ## Sources
 Below are the videos that i watched to gain information when starting this project. I recommend that you watch them too.  
-https://youtu.be/hbCjbCfUp0g?si=NynA37pT9rn3MCQu (special thanks to this video)  
-https://youtu.be/FUZKslSwfaw?si=WwYVih52zpUwfXec  
+https://youtu.be/hbCjbCfUp0g?si=NynA37pT9rn3MCQu (for mechanical)  
+https://youtu.be/FUZKslSwfaw?si=WwYVih52zpUwfXec (for electrical)  
 https://youtu.be/L-FAyA0VQVQ?si=nJCx8VnmU1xidO3N  
 https://youtu.be/nPorcXRC3Ns?si=enejoyd5WoKqs4ha  
 https://youtu.be/aYYAbcPKN8g?si=kRVGH3cPVwXVqP0q  
