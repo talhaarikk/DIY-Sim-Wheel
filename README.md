@@ -56,9 +56,8 @@ The bolts on the profile were used with imbus bolts and t-nuts for fixing. I use
 **Motor Driver**  
 
 ## Design
-I made the entire design using solidworks. You can find these files in the solidworks files section.  
-The thing i paid particular attention to in the design was that the shaft passes through the middle of the case. If I hadn't paid attention to this, the width of the cage could have been smaller.  
-I also found the gear diameters and belt lengths I determined thanks to this program.  
+I made the entire design using solidworks. I also found the gear diameters and belt lengths thanks to this program. You can find all the details of the project in these files. All files in the solidworks files section.  
+![Design]()  
 ## Assembly
 
 ## Pedal Shifters
