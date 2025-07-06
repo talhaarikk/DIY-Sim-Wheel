@@ -37,9 +37,9 @@ I used the following bearing to hold this shaft. Model number KP001. There are 3
 For the belt tensioner, i used 3 bearings on a piece i cut from a metal plate. This piece both makes assembly easier and helps adjust the tension of the belt.  
 **Steering Wheel**  
 This is a after market steering wheel. Any one you like will do.  
-![Steering Wheel]()
+![Steering Wheel](Images/SteeringWheel.png)  
 **Steering Wheel Hub**  
-
+I made it by welding a pipe to a round metal plate. If you can, a 3D printed part would work just fine.  
 ## Frame
 I used sigma profile in the cage structure that helps bring all the pieces together. Sigma profile thickness 20 mm. The lengths of all the sigma profiles i use are as follows.  
 280 mm x 4  
