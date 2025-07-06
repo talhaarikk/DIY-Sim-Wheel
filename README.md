@@ -52,9 +52,11 @@ The 70 and 50 mm pieces are a solution i found to fix the system to the table. I
 The bolts on the profile were used with imbus bolts and t-nuts for fixing. I used hidden corner joints to connect the profiles to each other. I also put caps on the ends of the profiles so that they would not look ugly.  
 ## Electronics
 **Board**  
-
+I chose Arduino Leonardo as the card in the project. Arduino Pro Micro will also do the same job, but Arduino Uno is not suitable for this project.  
 **Motor Driver**  
-
+I used the BTS7960B driver as the motor driver. This driver is enough to feed the motor, but i want to warn you about something. If the connections of this driver are made and the motor and encoder connections are not made yet, do not try to run the motor from the software. Don't ask how I know (I burned 2 of them).  
+**Fan**  
+Actually, i did not see that the motor and driver got very hot during use, but i still positioned a 5V computer fan to cool the motor and driver.  
 ## Design
 I made the entire design using solidworks. I also found the gear diameters and belt lengths thanks to this program. You can find all the details of the project in these files. All files in the solidworks files section.  
 ![Design]()  
