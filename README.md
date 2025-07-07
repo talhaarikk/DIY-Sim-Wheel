@@ -76,6 +76,7 @@ I made the entire design using solidworks. I also found the gear diameters and b
 ## Assembly
 It is a bit difficult to assemble this whole system. The following steps can make it easier for you to understand the assembly.  
 1-Assemble the entire frame structure and the elements on it.  
+![Step 1](Images/Step1.png)  
 2-
 
 ## Pedal Shifters
