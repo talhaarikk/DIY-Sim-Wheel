@@ -116,4 +116,4 @@ https://youtu.be/gG_dbnKfH5Q?si=5sSKj9XNKsQQZj4X (example using stepper motor)
 https://youtu.be/_h417VxFmWQ?si=Obe5oXemXU2WvnzE (example using servo motor)  
 
 ## Conclusion
-This project was an adventure that gave me a lot of knowledge while doing it (i can't say that i enjoyed it during the process). It was much more solid, powerful, cheap and high quality compared to other steering sets on the market. I hope i could contribute to your own projects. If you have any questions about the project, don't hesitate to ask me.  
+This project was an adventure that gave me a lot of knowledge while doing it (i can't say that i enjoyed it during the process). It was much more solid, powerful, cheap and high quality compared to other steering sets on the market. I hope i could contribute to your own projects. If you have any questions about the project, don't hesitate to ask me from talhaarik1965@gmail.com.  
