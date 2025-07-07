@@ -75,9 +75,11 @@ I made the entire design using solidworks. I also found the gear diameters and b
 
 ## Assembly
 It is a bit difficult to assemble this whole system. The following steps can make it easier for you to understand the assembly.  
-1-Assemble the entire frame structure and the elements on it.  
+1-Assemble the entire frame structure and the elements on it except the encoder holder and the belt tensioner.  
 ![Step 1](Images/Step1.png)  
-2-
+2-Insert the shaft through the bearings one by one. Make sure the gears and belts remain inside the shaft when doing this.  
+![Step 2](Images/Step2.png)  
+3-
 
 ## Pedal Shifters
 The reason i opened a separate title for the pedal shifter was that i decided to add it to the steering wheel after the whole project was finished. So this part is not in solidworks file. You don't have to do this part if you don't want to.  
