@@ -48,7 +48,7 @@ I made it by welding a pipe to a round metal plate. If you can, a 3D printed par
 ![Steering Wheel Hub](Images/SteeringWheelHub.jpg)  
 
 ## Frame
-I used sigma profile in the cage structure that helps bring all the pieces together. Sigma profile width and length is 20 mm. The lengths of all the sigma profiles i use are as follows.  
+I used aluminum sigma profile in the cage structure that helps bring all the pieces together. Sigma profile width and length is 20 mm. The lengths of all the sigma profiles i use are as follows.  
 280 mm x 4  
 220 mm x 2  
 70 mm x 2  
