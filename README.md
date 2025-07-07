@@ -60,7 +60,7 @@ I used the BTS7960B driver as the motor driver. This driver is enough to feed th
 Actually, i did not see that the motor and driver got very hot during use, but i still positioned a 5V computer fan to cool the motor and driver.  
 ## Design
 I made the entire design using solidworks. I also found the gear diameters and belt lengths thanks to this program. You can find all the details of the project in these files. All files in the solidworks files section.  
-![Design]()  
+![Design](Images/Design.png)  
 ## Assembly
 
 ## Pedal Shifters
