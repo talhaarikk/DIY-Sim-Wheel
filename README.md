@@ -70,7 +70,7 @@ I simply used a cabinet hinge as a pedal shifter. After cutting it to the requir
 ## Wiring Diagram
 The wiring is completely taken from the video below.  
 ![Wiring Diagram](Images/WiringDiagram.png)  
-The only difference in wiring is that you may need to reverse the motor + and - poles to the driver. That's what i had to do.  
+The only difference in wiring is that you may need to reverse the motor + and - poles to the driver. That's what i had to do. Also in addition, i added an on/off switch and a power cable input to the + input of the power supply.  
 ## Software
 Actually the first software i ran was the wheelconfig program but i couldn't get the system to work using this program. Also this program has a more complex schematic. That's why i preferred EMC software.  
 The only thing i didn't do myself in this project and copied directly was the software. That's why i won't show how to set up the program, transfer it to arduino and make settings here. You can use the videos i put below to do these.  
