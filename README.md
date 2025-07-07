@@ -18,13 +18,13 @@ When choosing a power supply, i preferred a 24V and 15A power supply. Since the 
 
 ## Gears
 There are 4 gears in the steering wheel, one between the shaft and the motor and one between the shaft and the encoder. I recommend that you make sure that the gears are made of aluminum so that you can drill the holes and that they are not too heavy. Even though the gears were made of aluminum, the most challenging part of this project was the holes i drilled to mount the gears on the shaft. These gears mounted on the shaft should not be fixed with any gaps in order to ensure a healthy transmission. My method of fixing them was to drill screw holes in the gears and flatten the areas where the screws were tightened on the shaft to prevent them from slipping.  
-**Components for the motor:**  
+  **Components for the motor:**  
 60-5M-25-AL (on the shaft)  
 12-5M-25-AL (on the motor)  
 410-5M-25 (pulley)  
 ![Motor Gears](Images/MotorGears.png)  
 The torque produced by the motor itself was around 0.87 nm. With the 60/12 gear ratio, this value was multiplied by 5, theoretically reaching 4.35 nm (i did not measure this value experimentally). This value is approximately twice that of the Logitech G29.  
-**Components for the encoder:**  
+  **Components for the encoder:**  
 12-3M-09-AL (on the encoder)  
 30-3M-09-AL (on the shaft)  
 192-3M-09 (pulley)  
@@ -34,17 +34,17 @@ Since the encoder itself will not transfer any torque and will only rotate the s
 Table of pulleys for size 3M-09. Unfortunately i couldn't find the one for 5M-25.  
 
 ## Other Hardwares
-**Shaft**  
+  **Shaft**  
 When talking about other components, i must first mention the shaft. The shaft length is 26 cm and its diameter is 12 mm. The material is stated as induction shaft, but if i were to choose the shaft again, i would definitely not choose this material. Drilling holes on it to fix the gears was a complete torture. At least it is solid now.  
-**Bearing Housing**  
+  **Bearing Housing**  
 I used the following bearing to hold this shaft. Model number KP001. There are 3 of them holding the shaft, but you can also use 2 if you want.  
 ![Bearing Housing](Images/BearingHousing.png)  
-**Belt Tensioner**  
+  **Belt Tensioner**  
 For the belt tensioner, i used 3 bearings on a piece i cut from a metal plate. This piece both makes assembly easier and helps adjust the tension of the belt.  
-**Steering Wheel**  
+  **Steering Wheel**  
 This is a after market steering wheel. Any one you like will do.  
 ![Steering Wheel](Images/SteeringWheel.png)  
-**Steering Wheel Hub**  
+  **Steering Wheel Hub**  
 I made it by welding a pipe to a round metal plate. If you can, a 3D printed part would work just fine too.  
 ![Steering Wheel Hub](Images/SteeringWheelHub.jpg)  
 
@@ -59,11 +59,11 @@ The 70 and 50 mm pieces are a solution i found to fix the system to the table. I
 The bolts on the profile were used with imbus bolts and t-nuts for fixing. I used hidden corner joints to connect the profiles to each other. I also put caps on the ends of the profiles so that they would not look ugly.  
 
 ## Electronics
-**Board**  
+  **Board**  
 I chose Arduino Leonardo as the card in the project. Arduino Pro Micro will also do the same job, but Arduino Uno is not suitable for this project.  
-**Motor Driver**  
+  **Motor Driver**  
 I used the BTS7960B driver as the motor driver. This driver is enough to feed the motor, but i want to warn you about something. If the connections of this driver are made and the motor and encoder connections are not made yet, do not try to run the motor from the software. Don't ask how i know (i burned 2 of them).  
-**Fan**  
+  **Fan**  
 Actually, i did not see that the motor and driver got very hot during use, but i still positioned a 5V computer fan to cool the motor and driver.  
 
 ## Design
