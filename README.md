@@ -61,6 +61,9 @@ Actually, i did not see that the motor and driver got very hot during use, but i
 ## Design
 I made the entire design using solidworks. I also found the gear diameters and belt lengths thanks to this program. You can find all the details of the project in these files. All files in the solidworks files section.  
 ![Design](Images/Design.png)  
+![Top View](Images/TopView.png)  
+![Motor Belt](Images/MotorBelt.png)  
+![Encoder Belt](Images/EncoderBelt.png)  
 ## Assembly
 
 ## Pedal Shifters
