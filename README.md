@@ -81,7 +81,7 @@ It is a bit difficult to assemble this whole system. The following steps can mak
 ![Step 2](Images/Step2.png)  
 3-Then tighten the bolts of the gears and connect them to the shaft.  
 4-Install the encoder and belt tensioner. Then push these elements until the belts are at the appropriate tension and then tighten them.  
-![Step 4](Images/Step4.png)  
+5-Finally, attach the steering wheel to the shaft.  
 
 ## Pedal Shifters
 The reason i opened a separate title for the pedal shifter was that i decided to add it to the steering wheel after the whole project was finished. So this part is not in solidworks file. You don't have to do this part if you don't want to.  
