@@ -1,7 +1,7 @@
 # DIY Sim Wheel
 ## Purpose
 The purpose of this project is to make a powerful sim racing wheel cheaply (also i like doing this kind of stuff). But accualy the main reason i started this project was that i didn't want to buy a logitech g29 (g29 because it is the most common, known, reliable and cheap model on the market). Because the g29 was made of too much plastic, the torque was not at the level i wanted and the size of the steering wheel was not enough for me. That's why i focused on these issues in my own design. Below you can find all the details of the steering wheel.  
-![Sim Wheel]()  
+![Sim Racing Wheel](Images/SimRacingWheel.png)  
 You can find more photos of the sim steering wheel in the Images/Steering_Wheel folder.  
 
 ## Motor
@@ -86,7 +86,7 @@ It is a bit difficult to assemble this whole system. The following steps can mak
 ## Pedal Shifters
 The reason i opened a separate title for the pedal shifter was that i decided to add it to the steering wheel after the whole project was finished. So this part is not in solidworks file. You don't have to do this part if you don't want to.  
 I simply used a cabinet hinge as a pedal shifter. After cutting it to the required dimensions, i added a switch that is triggered when pressed. I made the connection to the arduino with a braided cable so that it can withstand the rotation of the steering wheel. This cable is removable and pluggable, so i can remove it when using manual gear. Other than these, there is nothing difficult about this part. You can understand how it works from the photo below.  
-![Paddle Shifter]()  
+![Paddle Shifter](Images/PaddleShifter.png)  
 
 ## Wiring Diagram
 The wiring is completely taken from the video below.  
