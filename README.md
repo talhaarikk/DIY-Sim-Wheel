@@ -1,6 +1,6 @@
 # DIY Sim Wheel
 ## Purpose
-The purpose of this project is to make a powerful sim racing wheel cheaply (also i like doing this kind of stuff). But accualy the main reason i started this project was that i didn't want to buy a logitech g29 (g29 because it is the most common, known, reliable and cheap model on the market). Because the g29 was made of too much plastic, the torque was not at the level i wanted and the size of the steering wheel was not enough for me. That's why i focused on these issues in my own design. Below you can find all the details of the steering wheel.  
+The purpose of this project is to make a powerful sim racing wheel cheaply (also i like doing this kind of stuff). But actualy the main reason i started this project was that i didn't want to buy a logitech g29 (g29 because it is the most common, known, reliable and cheap model on the market). Because the g29 was made of too much plastic, the torque was not at the level i wanted and the size of the steering wheel was not enough for me. That's why i focused on these issues in my own design. Below you can find all the details of the steering wheel.  
 ![Sim Racing Wheel](Images/SimRacingWheel.jpg)  
 You can find more photos of the sim steering wheel in the Images/Steering_Wheel folder.  
 
